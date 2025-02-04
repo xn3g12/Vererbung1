@@ -1,14 +1,17 @@
 <a id="readme-top"></a>
 # Vererbung
-Author: Mario Sengwein <br>
+Author: Negin Khawari <br>
 LBS Eibiswald | 2bAPC
 
 Nur eine Demo Anwendung...<br>
 Hier könnte die Anwendung erklärt werden...
 
-## Installation
+## OOP Projekt
 
-```cmd
+```Klasse
+```Attribute
+```Konstruktor
+```Methode
 
 git checkout origin/master
 
@@ -19,7 +22,7 @@ git checkout origin/master
 Technologien im Einsatz:
 [![Java][java.com]][java-url]
 
-```php
+```java
 
 //some source code configuration
 
