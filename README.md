@@ -29,4 +29,5 @@ Technologien im Einsatz:
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## Screenshots
+![Screen shot](https://github.com/xn3g12/Vererbung1/blob/master/Bild.png)
