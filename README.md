@@ -31,3 +31,6 @@ Technologien im Einsatz:
 
 ## Screenshots
 ![Screen shot](https://github.com/xn3g12/Vererbung1/blob/master/Bild.png)
+
+## Lizenz
+MIT-Lizenz
